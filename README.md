@@ -17,7 +17,7 @@
                     --trigger_num=16 \
                     --watermark_dim=512 \
                     --dataset_root "/root" \
-                    --watermark_dir "/root/watermark"                  
+                    --watermark_dir "/root/watermark"   `               
 
 `#zero-shot classification` 
 
@@ -29,5 +29,5 @@
                     --trigger_num=16 \
                     --watermark_dim=512 \
                     --watermark_dir "/root/watermark"  \
-                    --dataset_root "/root" \
+                    --dataset_root "/root" `
              
