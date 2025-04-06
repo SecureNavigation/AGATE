@@ -2,7 +2,7 @@
 
 ### Install Benchmarks
 
-`pip install benchmarks/CLIP_benchmark`
+`pip install CLIP_benchmark`
 
 ### Sample running code for zero-shot evaluation with AGATE:
 
